@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/sh
 # array
 
 array=(niaho ege geg 2 ge 23 4455 322 55 wwwe dmz zegeeq ing)
